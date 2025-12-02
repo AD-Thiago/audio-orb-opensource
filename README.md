@@ -10,6 +10,10 @@
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
+---
+
+**🇺🇸 English** | [🇧🇷 Português (Brasil)](README.pt-BR.md)
+
 </div>
 
 ---
