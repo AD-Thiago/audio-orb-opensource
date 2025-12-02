@@ -10,6 +10,10 @@
 
 [Recursos](#-recursos) • [Demo](#-demo) • [Instalação](#-instalação) • [Uso](#-uso) • [Contribuindo](#-contribuindo)
 
+---
+
+[🇺🇸 English](README.md) | **🇧🇷 Português (Brasil)**
+
 </div>
 
 ---
@@ -187,7 +191,7 @@ registerEngine(new MeuMotorTTSPersonalizado());
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas! Por favor, consulte [CONTRIBUTING.md](CONTRIBUTING.md) para diretrizes.
+Contribuições são bem-vindas! Por favor, consulte [CONTRIBUTING.pt-BR.md](CONTRIBUTING.pt-BR.md) para diretrizes.
 
 ### Áreas para Contribuir
 
